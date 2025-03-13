@@ -8,7 +8,7 @@ Components:
 - [GameList.js](https://github.com/NeQ34/React/blob/master/Lab02-12-03-25/src/components/GameList.js)
 - [GamesData.js](https://github.com/NeQ34/React/blob/master/Lab02-12-03-25/src/components/GamesData.js)
 - [Header.js](https://github.com/NeQ34/React/blob/master/Lab02-12-03-25/src/components/Header.js)
-- [LoadFavouriteGames.js](https://github.com/NeQ34/React/blob/master/Lab02-12-03-25/src/components/LoadFavouritesGames.js)
+- [LoadFavouriteGames.js](https://github.com/NeQ34/React/blob/master/Lab02-12-03-25/src/components/LoadFavouritesgames.js)
 - [LoadMore.js](https://github.com/NeQ34/React/blob/master/Lab02-12-03-25/src/components/LoadMore.js)
 - [RandomGame.js](https://github.com/NeQ34/React/blob/master/Lab02-12-03-25/src/components/RandomGame.js)
 - [ThemeToggle.js](https://github.com/NeQ34/React/blob/master/Lab02-12-03-25/src/components/ThemeToggle.js)
