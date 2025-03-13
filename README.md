@@ -4,11 +4,11 @@
 
 ## lab-1
 Components:
-    GameCard.js
-    GameList.js
-    GamesData.js
-    Header.js
-    LoadFavouriteGames.js
-    LoadMore.js
-    RandomGame.js
-    ThemeToggle.js
+    [GameCard.js]()
+    [GameList.js]()
+    [GamesData.js]()
+    [Header.js]()
+    [LoadFavouriteGames.js]()
+    [LoadMore.js]()
+    [RandomGame.js]()
+    [ThemeToggle.js]()
